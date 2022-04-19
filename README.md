@@ -2,7 +2,7 @@
 An archive for all x86 HAL builds of MCBE for Windows since Render Dragon
 
 # DISCLAIMER:
-## Obtaining a copy of a Minecraft for Windows 10/11 app package (.Appx) such as the ones hosted here will NOT allow you to pirate the game. You MUST still own the game in order for it to be played outside of trial mode. We do NOT encourage theft and/or piracy of Minecraft for Windows 10/11.
+## Obtaining a copy of a Minecraft for Windows app package (.Appx) such as the ones hosted here will NOT allow you to pirate the game. You MUST still own the game in order for it to be played outside of trial mode. I do NOT encourage theft and/or piracy of Minecraft for Windows 10/11. This repository is NOT indended to aid in the piract of Minecraft for Windows.
 
 ### Why host direct downloads here?
 Microsoft has consistently shown that they can completely screw over parts of the MCBE community without warning or indication. The fact that this repository exists, in light of Render Dragon, is further proof of that. I cannot safely say that direct download links to APPXs from the Microsoft Store will persist over time.
