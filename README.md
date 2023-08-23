@@ -3,13 +3,14 @@ An archive for all x86 Dx11 builds of MCBE for Windows since Render Dragon
 
 ### How to install .appx files with patched Xbox authentication
 - These app packages are considered "untrusted" by Windows, because they were packaged by a 3rd party (me)
+- Uninstall your current version of Minecraft for Windows (if applicable), and back up any files in `%LOCALAPPDATA%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe` if necessary
 - In order to install the appx's certificate, right click it, and go `Propeties` -> `Digital Signatures`
 - Click the signature in the signatures list, the click `Details` -> `View Certificate` -> `Install Certificate...`
 - Select the `Store Location` to be `Local Machine`, then click `Next`
 - Select `Place all certificates in the following store` and set the directory to the `Trusted Root Certification Authorities` folder
 - Click `Next`, then `Finish`
 - Double click the appx to install with the default App Installer as normal
-- This .appx has only been tested on 3rd party servers, such as the Hive Network; vanilla servers do not appear to be supported
+- The patched .appx files have only been tested on 3rd party servers, such as the Hive Network; vanilla servers do not appear to be supported
 
 # DISCLAIMER:
 ## Obtaining a copy of a Minecraft for Windows app package (.Appx) such as the ones hosted here will NOT allow you to pirate the game. You MUST still own the game in order for it to be played outside of trial mode. I do NOT encourage theft and/or piracy of Minecraft for Windows. This repository is NOT intended to aid in the piracy of Minecraft for Windows.
